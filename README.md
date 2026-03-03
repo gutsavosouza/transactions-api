@@ -1,5 +1,3 @@
-import { Callout, Cards, Card } from 'nextra/components'
-
 # Transactions API
 
 > A type-safe financial transaction system built with **Go** and **PostgreSQL**. Designed for managing user accounts and secure inter-account money transfers.
